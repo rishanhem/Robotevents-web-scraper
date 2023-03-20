@@ -18,6 +18,7 @@ FIRST how to get the teams list -
 1. Download the .zip file 
 2. replace vrc.csv with the team .csv file that was renamed to vrc.csv
 3. Run the program 
+
 If running more than once, replace vrc1.csv with a blank version after every time
 
 

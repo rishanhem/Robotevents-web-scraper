@@ -21,6 +21,8 @@ FIRST how to get the teams list -
 
 If running more than once, replace vrc1.csv with a blank version after every time
 
+If you need help with anything like issues or converting this to scrape VEX IQ or VEX U, just create a thread in issues
+
 
 •Utilized Python’s Requests and CSV libraries to read data from a CSV file and use that with the Requests library to get HTML from a website
 •Scraped data from the website and wrote into another CSV file with all the data from the previous CSV and the web scraped data combined

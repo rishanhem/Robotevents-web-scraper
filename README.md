@@ -1,4 +1,4 @@
-# RobotEvents web-scraper
+# RobotEvents VRC web-scraper
 
 Functionality - 
 Reads the team number from the RobotEvents teams list of an event and appends their world skills rank to a new .csv file.
